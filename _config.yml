@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 show_downloads: true
 title: DCS Liberation
 description: Turn based dynamic campaign for DCS World
+github:
+  zip_url: https://github.com/dcs-liberation/dcs_liberation/releases/download/4.0.0/dcs_liberation.4.0.0.zip
+  tar_url: https://github.com/dcs-liberation/dcs_liberation/releases/download/4.0.0/dcs_liberation.4.0.0.zip
